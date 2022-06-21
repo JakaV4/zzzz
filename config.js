@@ -5,30 +5,30 @@
 // RECODE BY ZIFABOTZ
 
 //=============『 Utama 』================== //
-global.owner = ['6282146218274'] 
-global.mods = ['6282146218274'] 
-global.prems = ['6282146218274'] 
+global.owner = ['6285785694474'] 
+global.mods = ['6285785694474'] 
+global.prems = ['6285785694474'] 
 
 //=============『 Info Owner 』============== //
 global.nameowner = 'OWNER RIELBOTZ'
-global.numberowner = '6282146218274'
-global.instagram = 'https://instagram.com/Rielgans12'
-global.github = 'https://github.com/Botynyakamu'
-global.dana = '6283813417529'
-global.pulsa = '6283813417529'
-global.gopay = '6283813417529'
+global.numberowner = '6285785694474'
+global.instagram = 'https://instagram.com/itsme_nitsu'
+global.github = 'https://github.com/JakaV4'
+global.dana = '081335334848'
+global.pulsa = '081335334848'
+global.gopay = '085785694474'
 
 //=============『 Info Bot 』=================//
 global.namebot = '༆ 𝐑𝐈𝐄𝐋𝐁𝐎𝐓𝐙-𝐌𝐃 ༆'
-global.gc = 'https://chat.whatsapp.com/JqzZbqyCvBa6tXzLH1P3hZ'
-global.web = 'https://github.io.rieltod' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.webm = 'https://instagram.com/Rielgans12'
+global.gc = 'https://chat.whatsapp.com/IVwv4LpYXP75nNFz6f58Z2'
+global.web = 'https://github.io.JakaV4' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.webm = 'https://instagram.com/itsme_nitsu'
 global.price1 = '𝐍𝐈𝐇 𝐁𝐀𝐍𝐆 𝐋𝐈𝐒𝐓 𝐒𝐄𝐖𝐀𝐍𝐘𝐀\n\n》PERMANEN Rp 10.000\nMAKSIMAL 2 GRUP\n》PERMANEN  Rp 20.000\nMAKSIMAL 6 GRUP \n》1 BULAN Rp 5.000\nMAKSIMAL 1 GRUP'
 
 //=======『 Tampilan Dan Lainnya 』============//
-global.fotonya1 = 'https://telegra.ph/file/80a1f0497938656a30d05.jpg' //ganti jadi foto bot mu
-global.fotonya2 = 'https://telegra.ph/file/80a1f0497938656a30d05.jpg' //ini juga ganti
-global.fotonya3 = 'https://telegra.ph/file/80a1f0497938656a30d05.jpg'
+global.fotonya1 = 'https://telegra.ph/file/cf3081b534fb68589e77e.jpg' //ganti jadi foto bot mu
+global.fotonya2 = 'https://telegra.ph/file/cf3081b534fb68589e77e.jpg' //ini juga ganti
+global.fotonya3 = 'https://telegra.ph/file/cf3081b534fb68589e77e.jpg'
 global.donasi = 'https://telegra.ph/file/8c3dbeb8aa9ee29719598.jpg' //ganti pakai poto apa aja 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
