@@ -10,7 +10,7 @@ global.mods = ['6285785694474']
 global.prems = ['6285785694474'] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'OWNER RIELBOTZ'
+global.nameowner = 'ζλκλꪶ͢Kunꫂ⁩'
 global.numberowner = '6285785694474'
 global.instagram = 'https://instagram.com/itsme_nitsu'
 global.github = 'https://github.com/JakaV4'
@@ -19,34 +19,34 @@ global.pulsa = '081335334848'
 global.gopay = '085785694474'
 
 //=============『 Info Bot 』=================//
-global.namebot = '༆ 𝐑𝐈𝐄𝐋𝐁𝐎𝐓𝐙-𝐌𝐃 ༆'
+global.namebot = 'VīoLaꪶ͢Botzꫂ⁩'
 global.gc = 'https://chat.whatsapp.com/IVwv4LpYXP75nNFz6f58Z2'
-global.web = 'https://github.io.JakaV4' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.web = 'https://instagram.com/itsme_nitsu' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.webm = 'https://instagram.com/itsme_nitsu'
-global.price1 = '𝐍𝐈𝐇 𝐁𝐀𝐍𝐆 𝐋𝐈𝐒𝐓 𝐒𝐄𝐖𝐀𝐍𝐘𝐀\n\n》PERMANEN Rp 10.000\nMAKSIMAL 2 GRUP\n》PERMANEN  Rp 20.000\nMAKSIMAL 6 GRUP \n》1 BULAN Rp 5.000\nMAKSIMAL 1 GRUP'
+global.price1 = 'nih bang list sewanya\n\n》PERMANEN Rp 10.000\nMAKSIMAL 2 GRUP\n》PERMANEN  Rp 20.000\nMAKSIMAL 6 GRUP \n》1 BULAN Rp 5.000\nMAKSIMAL 1 GRUP'
 
 //=======『 Tampilan Dan Lainnya 』============//
 global.fotonya1 = 'https://telegra.ph/file/cf3081b534fb68589e77e.jpg' //ganti jadi foto bot mu
 global.fotonya2 = 'https://telegra.ph/file/cf3081b534fb68589e77e.jpg' //ini juga ganti
 global.fotonya3 = 'https://telegra.ph/file/cf3081b534fb68589e77e.jpg'
-global.donasi = 'https://telegra.ph/file/8c3dbeb8aa9ee29719598.jpg' //ganti pakai poto apa aja 
+global.donasi = 'https://telegra.ph/file/407f78119012bdfdf1e7c.jpg' //ganti pakai poto apa aja 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = '© ❋ཻུ۪۪⸙Rielbotz-MD⳹ ❋ཻུ۪۪'
+global.wm = '© VīoLaꪶ͢Botzꫂ⁩'
 global.watermark = wm
-global.wm2 = 'ᯤ creator by Oᵂηʀ᭄๖ۣۣۜ𝐑𝐢𝐞𝐥𝐛𝐨𝐭𝐳_𝙊𝙛𝙛cོ1꧅'
-global.wm3 = 'ᯤ ʀɪᴇʟ ᴏғᴄ'
+global.wm2 = 'ᯤ creator by ζλκλꪶ͢Kunꫂ⁩'
+global.wm3 = 'ᯤ ζλκλꪶ͢Kunꫂ⁩'
 global.htki = '––––––『' 
 global.htka = '』––––––'
-global.media = 'https://telegra.ph/file/72168c6f1aaa90315c369.jpg'
+global.media = 'https://telegra.ph/file/cf3081b534fb68589e77e.jpg'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=smurfs-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.wait = '⏳Tunggu kurang lebih 1 menit karna sedang diproses. . .'
 global.eror = '_*🚨 Server Bot Sedang Error*_'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = '⏳ Stiker sedang Proses'
-global.packname = 'ʀɪᴇʟʙᴏᴛᴢ'
-global.author = '@ᖇIᗴᒪᘜᗩᑎՏ | (• ◡•)|'
+global.packname = 'VīoLaꪶ͢Botzꫂ⁩'
+global.author = '@ζλκλꪶ͢Kunꫂ⁩'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
