@@ -19,7 +19,7 @@ global.pulsa = '081335334848'
 global.gopay = '085785694474'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'VīoLaꪶ͢Botzꫂ⁩'
+global.namebot = 'Jesīcaꪶ͢Botzꫂ⁩'
 global.gc = 'https://chat.whatsapp.com/IVwv4LpYXP75nNFz6f58Z2'
 global.web = 'https://instagram.com/itsme_nitsu' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.webm = 'https://instagram.com/itsme_nitsu'
@@ -32,7 +32,7 @@ global.fotonya3 = 'https://telegra.ph/file/cf3081b534fb68589e77e.jpg'
 global.donasi = 'https://telegra.ph/file/407f78119012bdfdf1e7c.jpg' //ganti pakai poto apa aja 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = '© VīoLaꪶ͢Botzꫂ⁩'
+global.wm = '© Jesīcaꪶ͢Botzꫂ⁩'
 global.watermark = wm
 global.wm2 = 'ᯤ creator by ζλκλꪶ͢Kunꫂ⁩'
 global.wm3 = 'ᯤ ζλκλꪶ͢Kunꫂ⁩'
